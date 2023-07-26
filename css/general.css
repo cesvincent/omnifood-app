@@ -216,11 +216,11 @@ body {
 
 /* HELPER/SETTINGS CLASSES */
 .margin-right-sm {
-  margin-right: 1.6rem;
+  margin-right: 1.6rem !important;
 }
 
-.margin-botton-md {
-  margin-bottom: 4.8rem;
+.margin-bottom-md {
+  margin-bottom: 4.8rem !important;
 }
 
 .center-text {
